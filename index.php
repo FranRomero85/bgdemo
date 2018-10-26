@@ -91,6 +91,8 @@
           <h2>Application Example</h2>
           <p>
             <img src="bluerose.jpeg">
+            <img src="greenrose.jpeg">
+            <img src="redrose.jpeg">
           </p>
         </div>
       </div>
